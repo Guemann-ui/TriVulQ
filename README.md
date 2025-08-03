@@ -111,10 +111,12 @@ TriVulQ/
 └── README.md # This documentation
 ```
 
-
+## Citation
+```
 @article{chiu2021vulberta,
   title={VulBERTa: A Source Code Based Pre-Trained Language Model for Vulnerability Detection},
   author={Chiu, Kelvin and Li, Yi and He, Yujia and Zhang, Meng and Rubin, Julia},
   journal={arXiv preprint arXiv:2104.12408},
   year={2021}
 }
+```
